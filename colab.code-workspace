@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-remote://ssh-remote+root@delay-salvation-rec-traffic.trycloudflare.com:22/content/colab"
+		},
+		{
+			"uri": "vscode-remote://ssh-remote+root@delay-salvation-rec-traffic.trycloudflare.com:22/content/drive/MyDrive/AI_PICS/ComfyUI"
+		}
+	],
+	"remoteAuthority": "ssh-remote+root@delay-salvation-rec-traffic.trycloudflare.com:22",
+	"settings": {}
+}
